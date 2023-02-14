@@ -1,0 +1,36 @@
+html {
+    background-color: cornflowerblue;
+}
+
+label{
+    font-size:18px
+}
+
+input{
+    font-size: 18px;
+}
+
+
+
+.Texto {
+    background-color: cornsilk;
+    margin: 25px;
+    padding: 20px;
+    border: solid 10px red;
+    font-size: 25px;
+    color: black
+}
+
+.Terno,
+
+.Vestidos,
+
+.Macacao,
+
+.Jeans,
+
+.Leg,
+
+a {
+    font-size: 20px
+}
