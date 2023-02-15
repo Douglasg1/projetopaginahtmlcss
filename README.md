@@ -4,7 +4,7 @@ Criação do primeiro arquivo readme para este  primeiro projeto que fiz sozinho
 Atualização:
 Adição de uma área de cadastro básico destinada aos  clientes e um pequeno "textarea" no fim da página para sugestões e reclamações.
 
-##Tecnologias usadas:
+## Tecnologias usadas:
 - HTML
 - CSS
 
