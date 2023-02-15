@@ -3,7 +3,7 @@ html {
 }
 
 label{
-    font-size:18px
+    font-size:18px;
 }
 
 input{
@@ -18,7 +18,7 @@ input{
     padding: 20px;
     border: solid 10px red;
     font-size: 25px;
-    color: black
+    color: black;
 }
 
 .Terno,
@@ -32,5 +32,5 @@ input{
 .Leg,
 
 a {
-    font-size: 20px
+    font-size: 20px;
 }
