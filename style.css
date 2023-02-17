@@ -21,10 +21,14 @@ input{
 .Texto {
     background-color: cornsilk;
     margin: 25px;
-    padding: 20px;
-    border: solid 10px red;
+    padding: 10px;
+    border: solid 5px black;
     font-size: 25px;
     color: black;
+}
+textarea{
+    border: solid 2px black;
+    color:blue;
 }
 
 .Terno,
