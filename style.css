@@ -25,6 +25,7 @@ input{
     border: solid 5px black;
     font-size: 25px;
     color: black;
+    list-style-type: none;
 }
 textarea{
     border: solid 2px black;
